@@ -1,19 +1,23 @@
- Create project:
+ ### Create project:
 
- ```pnpm create vite```
+ - ```pnpm create vite```
  ***
- ```cd pnpm-vite-vanillajs```
+ ### Run development project:
+ 
+ - ```cd pnpm-vite-vanillajs```
 
- ```pnpm install```  
+ - ```pnpm install```  
 
- ```pnpm run dev ```
+ - ```pnpm run dev ```
 ***
-build, create dist:
+### Build, create dist:
 
- ```pnpm run build ```
- ```copy, paste folder dist rename docs ```
+ - ```pnpm run build ```
+
+ - ```copy, paste folder dist rename docs ```
  ***
+ ### github.io SSG static page:
 
- https://runtimevic.github.io/pnpm-vite-vanillajs/
+ - [pnpm-vite-vanillajs](https://runtimevic.github.io/pnpm-vite-vanillajs/)
  
  ***
