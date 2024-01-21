@@ -21,3 +21,5 @@
  - [pnpm-vite-vanillajs](https://runtimevic.github.io/pnpm-vite-vanillajs/)
  
  ***
+- https://github.com/lejonmanen/learn-code-blockly
+- https://lejonmanen.github.io/learn-code-blockly
