@@ -11,4 +11,9 @@
 build, create dist:
 
  ```pnpm run build ```
+ ```copy, paste folder dist rename docs ```
+ ***
+
+ https://runtimevic.github.io/pnpm-vite-vanillajs/
+ 
  ***

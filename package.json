@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "ads-client": "^1.14.3"
   }
 }
